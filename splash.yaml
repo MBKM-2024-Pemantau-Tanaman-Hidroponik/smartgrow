@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#A3E3A1"
+  color_dark: "#A3E3A1"
+  image: assets\icons\smartgrow.png
+  image_dark: assets\icons\smartgrow.png
+  branding: assets\icons\branding.png
+  branding_dark: assets\icons\branding.png
+
+  android_12: 
+    color: "#A3E3A1"
+    color_dark: "#A3E3A1"
+    image: assets\icons\smartgrow.png
+    image_dark: assets\icons\smartgrow.png
+    branding: assets\icons\branding.png
+    branding_dark: assets\icons\branding.png
